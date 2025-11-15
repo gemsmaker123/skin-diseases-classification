@@ -1,4 +1,4 @@
-Skin Diseases Classification Project
+### Skin Diseases Classification Project
 Dataset
 
 This project uses the Skin Diseases Image Dataset from Kaggle:
